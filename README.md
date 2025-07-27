@@ -1,2 +1,2 @@
 # Disease-prediction-system
-Anemia,diabetes,stroke,chronic-kidney disease
+Disease(Anemia,Diabetes,Stroke,Chronic-Kidney)
