@@ -1,2 +1,2 @@
-# Disease-prediction-system
+# Disease-prediction-system-using-Streamlit
 Disease(Anemia,Diabetes,Stroke,Chronic-Kidney)
